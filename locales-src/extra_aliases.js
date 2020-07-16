@@ -69,16 +69,16 @@ module.exports = {
     // Chinese (simplified)
     "左转 %1 度": "turn @turnLeft %1 degrees",
     "右转 %1 度": "turn @turnRight %1 degrees",
-    点击绿旗时: "when @greenFlag clicked",
-    结束: "end",
+    "点击绿旗时": "when @greenFlag clicked",
+    "结束": "end",
   },
 
   zh_TW: {
     // Chinese (traditional)
     "左轉 %1 度": "turn @turnLeft %1 degrees",
     "右轉 %1 度": "turn @turnRight %1 degrees",
-    當綠旗被點擊時: "when @greenFlag clicked",
-    結束: "end",
+    "當綠旗被點擊時": "when @greenFlag clicked",
+    "結束": "end",
   },
 
   he: {
@@ -86,7 +86,7 @@ module.exports = {
     "הסתובב שמאל %1 מעלות": "turn @turnLeft %1 degrees",
     "הסתובב ימינה %1 מעלות": "turn @turnRight %1 degrees",
     "כאשר לוחצים על דגל ירוק": "when @greenFlag clicked",
-    סוף: "end",
+    "סוף": "end",
   },
 
   pl: {
